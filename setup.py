@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 setup(
     name='stringformatter0320',
-    version='0.0.1',
+    version='0.0.2',
     description='string formatter by eggSushi0320',
     author='eggSushi0320',
     author_email='astar5327z@gmail.com',
-    url='https://github.com/teddylee777/teddynote',
+    url='https://github.com/lazarus0320/oss.git',
     install_requires=['',],
     packages=find_packages(exclude=[]),
     keywords=['stringformatter0320'],
