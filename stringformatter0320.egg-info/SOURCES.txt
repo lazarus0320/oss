@@ -1,0 +1,8 @@
+setup.py
+stringformater0320/__init__.py
+stringformater0320/stringformater.py
+stringformatter0320.egg-info/PKG-INFO
+stringformatter0320.egg-info/SOURCES.txt
+stringformatter0320.egg-info/dependency_links.txt
+stringformatter0320.egg-info/not-zip-safe
+stringformatter0320.egg-info/top_level.txt
